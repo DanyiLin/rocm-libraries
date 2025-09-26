@@ -370,4 +370,5 @@ highlights the key differences between cuDNN and MIOpen APIs.
 
 test 2
 test 4
+test 5
 
